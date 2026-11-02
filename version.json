@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/ronin767oss/ronin-tv/releases/latest/download/RONIN-TV.apk",
+  "notes": "Adds in-app update notifications."
+}
