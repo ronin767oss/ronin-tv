@@ -1,1 +1,6 @@
-{"versionCode": 9, "versionName": "1.2.0", "apkUrl": "https://github.com/appdistrohq/download/releases/latest/download/app.apk", "notes": "New: set up your playlist with your phone using a QR code, and skip intros and credits on supported shows and movies. Also includes the Proton VPN fix and the new logo."}
+{
+  "versionCode": 10,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/appdistrohq/download/releases/latest/download/app.apk",
+  "notes": "New: a flipping poster hero on the Home screen — the featured artwork changes as you browse, matching the phone app. Also includes QR phone setup, skip intros and credits, the Proton VPN fix and the new logo."
+}
