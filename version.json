@@ -1,6 +1,1 @@
-{
-  "versionCode": 11,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/appdistrohq/download/releases/latest/download/app.apk",
-  "notes": "New look: a slimmer sidebar with Live TV and Kids up top, Discover removed, and tap the big Home poster's title to play its trailer. Also fixes the update prompt's OK button and refreshes subtitle support."
-}
+{"versionCode": 12, "versionName": "1.5.0", "apkUrl": "https://github.com/appdistrohq/download/releases/latest/download/app.apk", "notes": "New OpenTV-style Home and guide, Search restored, Series studio tabs, two playlists, show password on login."}
